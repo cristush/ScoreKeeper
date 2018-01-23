@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="goal">goal</string>
+    <string name="initial_score">0</string>
+    <string name="reset">reset</string>
+    <string name="foul">+1 foul</string>
+    <string name="card">+1 card</string>
+    <string-array name="teams">
+        <item>Alaves</item>
+        <item>Athletic Bilbao</item>
+        <item>Atletico Madrid</item>
+        <item>Barcelona</item>
+        <item>Celta Vigo</item>
+        <item>La_Coruna</item>
+        <item>Eibar</item>
+        <item>Espanyol</item>
+        <item>Getafe</item>
+        <item>Girona</item>
+        <item>Las Palmas</item>
+        <item>Leganes</item>
+        <item>Levante</item>
+        <item>Malaga</item>
+        <item>Real Betis</item>
+        <item>Real Madrid</item>
+        <item>Real Sociedad</item>
+        <item>Sevilla</item>
+        <item>Valencia</item>
+        <item>Villareal</item>
+    </string-array>
+    <string-array name="team_logos">
+        <item>@drawable/alaves</item>
+        <item>@drawable/athletic_bilbao</item>
+        <item>@drawable/atletico_madrid</item>
+        <item>@drawable/barcelona</item>
+        <item>@drawable/celta_vigo</item>
+        <item>@drawable/la_coruna</item>
+        <item>@drawable/eibar</item>
+        <item>@drawable/espanyol</item>
+        <item>@drawable/getafe</item>
+        <item>@drawable/girona</item>
+        <item>@drawable/las_palmas</item>
+        <item>@drawable/leganes</item>
+        <item>@drawable/levante</item>
+        <item>@drawable/malaga</item>
+        <item>@drawable/real_betis</item>
+        <item>@drawable/real_madrid</item>
+        <item>@drawable/real_sociedad</item>
+        <item>@drawable/sevilla</item>
+        <item>@drawable/valencia</item>
+        <item>@drawable/villareal</item>
+    </string-array>
+</resources>
