@@ -361,6 +361,6 @@
         android:layout_centerHorizontal="true"
         android:background="#c88"
         android:onClick="resetScore"
-        android:padding="16dp"
+        android:layout_margin="8dp"
         android:text="@string/reset" />
 </RelativeLayout>
